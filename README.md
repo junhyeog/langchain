@@ -1,7 +1,7 @@
 # Setup
-## conda env (from environment.yml)
+## conda env (from environment.yaml)
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 ```
 ## pip install
 ```bash
