@@ -3,7 +3,7 @@ from openai import OpenAI
 import openai
 import numpy as np
 from scipy.spatial.distance import cosine
-from apikey import apikey
+from apikey1 import apikey
 from nltk.tokenize import sent_tokenize
 import colorsys
 import uuid

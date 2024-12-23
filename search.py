@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 import openai
 import numpy as np
-from apikey import apikey
+from apikey1 import apikey
 from nltk.tokenize import sent_tokenize, word_tokenize
 
 openai.api_key = apikey
